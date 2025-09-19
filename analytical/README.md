@@ -1,6 +1,6 @@
 # Analytical 
 
-## 1️⃣ Number Series
+## Question1️⃣ What comes next in the series?
 
 **Series:** 2, 6, 12, 20, 30, \_\_\_
 
@@ -25,7 +25,7 @@ The pattern is n² + n:
 
 ---
 
-## 2️⃣ Odd One Out
+## Question2️⃣ Which word does not belong to the group?
 
 **Words:** Apple, Banana, Mango, Carrot
 
@@ -43,10 +43,8 @@ All are fruits except **Carrot**, which is a vegetable.
 
 ---
 
-## 3️⃣ Distance Problem
+## Question3️⃣ A person walks 5 km north, then 3 km east, then 5 km south. How far is the person from the starting point?
 
-**Problem:**
-A person walks 5 km north, then 3 km east, then 5 km south.
 
 **Options:**
 
@@ -68,9 +66,7 @@ A person walks 5 km north, then 3 km east, then 5 km south.
 
 ---
 
-## 4️⃣ Statement & Conclusions
-
-**Statement:** All engineers are intelligent.
+## Question4️⃣ Statement: All engineers are intelligent.
 
 **Conclusions:**
 
