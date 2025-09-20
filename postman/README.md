@@ -4,8 +4,8 @@ This folder contains the Postman collection for Library API testing.
 
 ## Instructions
 - Import `Library_API_Collection.json` into Postman
-- Base URL: `https://library-api.postmanlabs.com`
-- API Key: `postmanrulz`
+- baseUrl: `https://library-api.postmanlabs.com`
+- apiKey: `postmanrulz`
 
 ## Requests included
 1. Create a new book (POST /books)

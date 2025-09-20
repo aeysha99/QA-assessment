@@ -223,11 +223,11 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": ""
+			"value": "https://library-api.postmanlabs.com"
 		},
 		{
 			"key": "apiKey",
-			"value": ""
+			"value": "postmanrulz"
 		},
 		{
 			"key": "bookId",
